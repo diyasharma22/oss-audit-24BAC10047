@@ -1,4 +1,4 @@
-# 📊 Open Source Audit Project
+# Open Source Audit Project
 
 **Name:** Diya Sharma
 **Roll Number:** 24BAC10047
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a structured audit of **VLC Media Player**, one of the most widely used open-source multimedia applications.
 
@@ -22,7 +22,7 @@ Additionally, five shell scripts are created to demonstrate practical Linux and 
 
 ---
 
-## 💻 System Requirements
+## System Requirements
 
 * Ubuntu Linux (or WSL Ubuntu)
 * Bash Shell
@@ -31,7 +31,7 @@ Additionally, five shell scripts are created to demonstrate practical Linux and 
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 Open the terminal and run:
 
@@ -45,7 +45,7 @@ vlc --version
 
 ---
 
-## 📜 Scripts Included
+## Scripts Included
 
 ### 🔹 Script 1 — System Identity Report
 
@@ -110,7 +110,7 @@ Generates a personalized open-source philosophy statement based on user input.
 
 ---
 
-## ▶️ How to Run the Scripts
+## How to Run the Scripts
 
 ### Step 1: Give Execution Permission
 
@@ -130,7 +130,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 oss-audit-24BCE10039/
@@ -144,7 +144,7 @@ oss-audit-24BCE10039/
 
 ---
 
-## 📝 Notes
+## Notes
 
 * All scripts are tested on Ubuntu (WSL environment).
 * Scripts run completely via terminal (no GUI required).
@@ -152,7 +152,7 @@ oss-audit-24BCE10039/
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project provided both conceptual and practical insights into open-source software. It demonstrates how VLC Media Player reflects the principles of openness, collaboration, and flexibility.
 
