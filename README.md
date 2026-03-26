@@ -1,8 +1,11 @@
 # Open Source Audit Project
 
 **Name:** Diya Sharma
+
 **Roll Number:** 24BAC10047
+
 **Course:** Open Source Software (NGMC)
+
 **Software Chosen:** VLC Media Player
 
 ---
